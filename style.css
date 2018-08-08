@@ -1,0 +1,40 @@
+body {
+}
+.bg{
+    background: url(http://www.summersymphonylive.com/wp-content/uploads/2018/05/immediately-background-color-for-html-page-inspirational-crammed.jpg) no-repeat center center fixed;
+    background-size: cover;
+    
+    
+}
+.inter{
+    text-align: center;
+    border:5px dashed black;
+    font-size: 3em;
+    font-style: italic;
+    font-family: "Times New Roman";
+    width: 60%;
+    margin: auto;
+    padding: 10px;
+    
+}
+.first{
+    color:red;
+    font-size:1.5em;
+
+}
+.card{
+    position: relative;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 5%;
+    background-color: aqua;
+    opacity: 50%;
+}
+.carousel
+{
+    margin-left:auto;
+    margin-right:auto;
+    height: 300px;
+    width: 500px;
+}
